@@ -1,0 +1,35 @@
+#!/bin/sh
+# quotr: print one random quote from a Markdown file, in green.
+# Usage: quotr [file]   (default: ~/.quotes.md)
+# Quotes are lines starting with "- ". Everything else is ignored.
+# Never fails: any problem means print nothing and exit 0.
+
+file=${1:-$HOME/.quotes.md}
+[ -f "$file" ] && [ -r "$file" ] || exit 0
+
+# Seed from /dev/urandom so two shells opened in the same second differ.
+# Fall back to time + PID if that is unavailable.
+seed=$(od -An -N4 -tu4 /dev/urandom 2>/dev/null | tr -d ' ')
+[ -n "$seed" ] || seed=$(( $(date +%s) + $$ ))
+
+quote=$(awk -v seed="$seed" '
+  /^- / {
+    line = substr($0, 3)
+    sub(/[[:space:]]+$/, "", line)
+    if (line != "") quotes[++n] = line
+  }
+  END {
+    if (n == 0) exit
+    srand(seed % 2147483647)
+    print quotes[int(rand() * n) + 1]
+  }
+' "$file" 2>/dev/null)
+
+[ -n "$quote" ] || exit 0
+
+if [ -t 1 ] && [ -z "${NO_COLOR:-}" ]; then
+  printf '\033[32m%s\033[0m\n' "$quote"
+else
+  printf '%s\n' "$quote"
+fi
+exit 0
