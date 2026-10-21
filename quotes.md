@@ -27,3 +27,23 @@ One quote per bullet. Only lines starting with `- ` are used; anything else in t
 - When the winds are harsh one should chop wood, in fair weather row out to sea, in the romantic glow of candlelight passionately talk with a woman.  Use a ship for travel, a shield for defence, and a sword for striking.  Everything has its time and place.  -The Hávamál
 - Common sense is your best friend.  -The Hávamál
 - People seldom improve when they have no other model but themselves to copy.  -Oliver Goldsmith
+- Waste no more time arguing about what a good man should be.  Be one.  -Marcus Aurelius
+- The impediment to action advances action.  What stands in the way becomes the way.  -Marcus Aurelius
+- We suffer more often in imagination than in reality.  -Seneca
+- It is not that we have a short time to live, but that we waste a lot of it.  -Seneca
+- If you want to improve, be content to be thought foolish and stupid.  -Epictetus
+- First say to yourself what you would be; and then do what you have to do.  -Epictetus
+- You do not rise to the level of your goals.  You fall to the level of your systems.  -James Clear
+- Discipline equals freedom.  -Jocko Willink
+- Inspiration is for amateurs.  The rest of us just show up and get to work.  -Chuck Close
+- Hard work beats talent when talent doesn't work hard.  -Tim Notke
+- Be so good they can't ignore you.  -Steve Martin
+- Well done is better than well said.  -Benjamin Franklin
+- Lost time is never found again.  -Benjamin Franklin
+- Fall seven times, stand up eight.  -Japanese proverb
+- He who has a why to live can bear almost any how.  -Friedrich Nietzsche
+- Everybody has a plan until they get punched in the mouth.  -Mike Tyson
+- You miss 100% of the shots you don't take.  -Wayne Gretzky
+- Pressure is a privilege.  -Billie Jean King
+- Real artists ship.  -Steve Jobs
+- Talk is cheap.  Show me the code.  -Linus Torvalds
