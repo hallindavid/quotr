@@ -26,6 +26,8 @@ One quote per bullet. Only lines starting with `- ` are used; anything else in t
 - Give praise for each day regardless of what fate brings.  -The Hávamál
 - When the winds are harsh one should chop wood, in fair weather row out to sea, in the romantic glow of candlelight passionately talk with a woman.  Use a ship for travel, a shield for defence, and a sword for striking.  Everything has its time and place.  -The Hávamál
 - Common sense is your best friend.  -The Hávamál
+- Cattle die, kinsmen die, you yourself will die.  But the fame of one who has earned it never dies.  -The Hávamál
+- The coward thinks he will live forever if he avoids the fight.  But old age gives no peace, even if spears spare him.  -The Hávamál
 - People seldom improve when they have no other model but themselves to copy.  -Oliver Goldsmith
 - Waste no more time arguing about what a good man should be.  Be one.  -Marcus Aurelius
 - The impediment to action advances action.  What stands in the way becomes the way.  -Marcus Aurelius
@@ -47,3 +49,12 @@ One quote per bullet. Only lines starting with `- ` are used; anything else in t
 - Pressure is a privilege.  -Billie Jean King
 - Real artists ship.  -Steve Jobs
 - Talk is cheap.  Show me the code.  -Linus Torvalds
+- We are what we repeatedly do.  Excellence, then, is not an act, but a habit.  -Will Durant (on Aristotle)
+- At dawn, when you have trouble getting out of bed, tell yourself: I have to go to work, as a human being.  -Marcus Aurelius
+- While we are postponing, life speeds by.  -Seneca
+- No man is free who is not master of himself.  -Epictetus
+- For the things we have to learn before we can do them, we learn by doing them.  -Aristotle
+- How we spend our days is, of course, how we spend our lives.  -Annie Dillard
+- Do nothing which is of no use.  -Miyamoto Musashi
+- Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.  -Antoine de Saint-Exupéry
+- A complex system that works is invariably found to have evolved from a simple system that worked.  -John Gall
